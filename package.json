@@ -1,0 +1,26 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "MineSweeper Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erfanaboei/MineSweeper.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Erfan Aboei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erfanaboei/MineSweeper/issues"
+  },
+  "homepage": "https://github.com/erfanaboei/MineSweeper#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
